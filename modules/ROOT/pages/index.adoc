@@ -1,6 +1,6 @@
-= Jeux olympiques d'hiver de 2018
+= Jeux olympiques d'hiver de 2026
 
-image::logo.png[logo PyeongChang 2018, 200, align="center"]
+image::logo.png[logo Milano Cortina 2026, 200, align="center"]
 
 == Histoire
 
