@@ -1,46 +1,38 @@
-= Jeux olympiques d'hiver de 2018
+= Jeux olympiques d'hiver de 2022
 
-image::logo.png[logo PyeongChang 2018, 200, align="center"]
+image::logo.png[logo Pékin 2022, 200, align="center"]
 
 == Histoire
 
-Les Jeux olympiques d'hiver de 2018, officiellement appelés les XXIIIes Jeux olympiques d'hiver, se sont déroulés du 9 février au 25 février à PyeongChang en Corée du Sud, ville qui a été élue le 6 juillet 2011, à Durban en Afrique du Sud lors de la 123e session du Comité international olympique. Trois villes étaient candidates pour accueillir l'événement : Annecy (France), Munich (Allemagne) et PyeongChang (Corée du Sud)1.
+Les Jeux olympiques d'hiver de 2022, officiellement connus comme les XXIVes Jeux olympiques d'hiver, ont lieu à Pékin en Chine du 4 au 20 février 2022. Pékin obtient les Jeux lors de sa première candidature en s'imposant face à la ville d'Almaty au Kazakhstan. C'est la deuxième fois qu'une ville chinoise organise les Jeux olympiques après les Jeux d'été de 2008 déjà célébrés à Pékin qui devient ainsi la première ville de l'histoire à accueillir à la fois les Jeux olympiques d'été et d'hiver.
 
-Après une série de métropoles (Nagano, Salt Lake City, Turin, Vancouver et Sotchi), ces Jeux marquent le retour pour la première fois depuis 1994 de la compétition hivernale dans une petite ville de montagne.
+Ces Jeux d'hiver se déroulent sur trois sites principaux : Pékin, où les installations des Jeux d'été 2008 sont réutilisées pour la plupart des sports de glace mais où se trouve aussi le tremplin de Big Air (ski acrobatique et snowboard), Yanqing à 90 km de la capitale pour le ski alpin et la piste de bobsleigh, luge et skeleton, et Zhangjiakou, à 190 km, pour le ski acrobatique, le snowboard, le biathlon, le ski de fond, le saut à ski et le combiné nordique. Toutes les épreuves de neige se disputent sur de la neige de culture artificielle. Sept nouvelles épreuves sont inscrites au programme, mixtes par équipes pour la plupart, mais aussi individuellement, le monobob féminin et le Big Air à skis.
 
-Le 5 décembre 2017, à la suite de la révélation du système de dopage d'État lors des Jeux olympiques de Sotchi 2014, le Comité international olympique suspend le Comité national olympique russe de ces Jeux et donc la Russie en tant que nation participante. Ses athlètes sont toutefois autorisés à y participer sous drapeau olympique, sur invitation, et en portant la mention « Athlètes olympiques de Russie » (OAR). Leur participation se fera sous réserve qu'ils n'aient jamais été suspendus pour dopage et qu'ils se soumettent à des tests indépendants2.
+Le 17 janvier 2022, devant la progression de la pandémie de Covid-19, le comité olympique prend finalement la décision, inédite dans l'histoire des JO d'hiver, de ne pas vendre de billets au grand public (résidents ou venant de l’étranger).
 
-Ces Jeux sont marqués par la participation de la Corée du Nord et un réchauffement des relations entre les deux Corées avec notamment une équipe féminine de hockey sur glace constituée de joueuses des deux nations. Ils sont également marqués par la tchèque Ester Ledecká qui est la première athlète de l'histoire des Jeux olympiques d'hiver à gagner la médaille d'or dans deux disciplines olympiques différentes (ski alpin et snowboard) au cours de la même édition3.
+La Norvège, meilleure nation olympique hivernale depuis les origines, domine encore largement le tableau des médailles, au nombre de 37 dont 16 titres (nouveau record de médailles d'or dans une édition des Jeux d'hiver), suivie par l'Allemagne, qui remporte notamment neuf des dix titres mis en jeu sur la piste de bobsleigh, luge et skeleton, avec un nouveau Grand Chelem en luge, et un deuxième doublé de Francesco Friedrich en bob à deux et à quatre, après celui de 2018. La Chine à domicile obtient son meilleur résultat aux Jeux d'hiver, avec neuf titres et quinze médailles, alors que les Pays-Bas totalisent huit médailles d'or et dix-sept podiums grâce à leurs patineurs de vitesse et de short track. La Suisse atteint un bilan historique en ski alpin avec cinq victoires et neuf podiums.
 
-La Norvégienne Marit Bjørgen est l'athlète la plus décorée de ces Jeux avec cinq médailles en ski de fond, qui lui permettent de s'installer au sommet du palmarès des Jeux d'hiver, hommes et femmes confondus avec un total de quinze podiums dont huit titres. De leurs côtés, Shaun White en snowboard half pipe et Dario Cologna en ski de fond sur 15 km gagnent leur troisième titre olympique dans leurs épreuves respectives, alors que Ireen Wüst devient la plus médaillée des patineurs et patineuses de vitesse aux Jeux en atteignant le total de onze podiums.
+Les athlètes les plus médaillés de ces Jeux sont trois biathlètes et un skieur de fond qui montent chacun sur cinq podiums : Marte Olsbu Røiseland, Quentin Fillon Maillet, Johannes Thingnes Bø (ce dernier avec quatre médailles d'or, étant l'athlète le plus couronné de ces Jeux), ainsi que le fondeur du comité olympique russe Alexander Bolshunov. Comme Røiseland, il s'adjuge trois médailles d'or à Pékin, ce que réalisent également Irene Schouten en patinage de vitesse et Therese Johaug en ski de fond. Quant à Ireen Wust, elle parvient à treize médailles en cinq participations aux Jeux d'hiver en patinage de vitesse, avec la particularité record d'avoir été médaillée cinq fois consécutivement sur 1500 m. Ariana Fontana remporte elle aussi des récompenses sur cinq Jeux, et détient désormais le record de podiums en short track avec onze médailles.
 
-Deux athlètes gagnent trois médailles d'or dans ces Jeux : le fondeur norvégien Johannes Høsflot Klæbo et le biathlète français Martin Fourcade. Ce dernier parvient à un total de cinq titres pour devenir le plus décoré des athlètes français tous Jeux confondus.
+Gu Ailing est la sensation chinoise de cette XXIVe édition hivernale, avec un triplé de podiums inédit en ski acrobatique : l'or en Big Air et en halfpipe, l'argent en slopestyle. La quinzaine olympique est également marquée par l'imbroglio autour de la patineuse artistique Kamila Valieva, arrivée à 15 ans en grande favorite et d’abord gagnante de la compétition mixte par équipes avec le comité olympique russe, avant qu’un contrôle antidopage positif, effectué deux mois plus tôt, soit révélé. Finalement autorisée à concourir dans la compétition féminine par le tribunal arbitral du sport, la jeune russe rate son programme libre en chutant plusieurs fois sur la glace.
 
-La Norvège termine en tête du tableau des médailles avec 14 en or (à égalité avec l'Allemagne en termes de titres olympiques), 14 en argent et 11 en bronze pour un total de 39 podiums qui est le nouveau record d'une nation aux Jeux d'hiver.
+Le soir de la cérémonie de clôture, le 20 février, Pékin transmet le drapeau olympique à Milan-Cortina où se dérouleront en 2026 les XXVe Jeux d'hiver.
+
 
 == Sélection des villes
 
-À l'issue de la date limite d'envoi des candidatures le 15 octobre 2009, trois villes se déclarent requérantes à l'organisation des Jeux olympiques d'hiver de 2018 : Annecy (en France), Munich (en Allemagne) et PyeongChang (en Corée du Sud). Il s'agit du plus faible nombre de villes requérantes pour l'organisation des Jeux d'hiver depuis 1988.
-
-Le 20 juin 2010, à la suite de l'évaluation des candidatures, le Comité international olympique annonce qu'aucune ville candidate n'est recalée.
-
-Le vote a lieu le 6 juillet 2011 à Durban lors de la 123e session du Comité international olympique, et les membres du CIO n'ont besoin que d'un seul tour pour désigner la ville hôte.
 
 
 |===
 |Ville candidate |Pays |1er tour
 
-|PyeongChang
-|Corée du Sud
-|*63*
+|Pékin
+|Chine
+|*44*
 
-|Munich
-|Allemagne
-|25
-
-|Annecy
-|France
-|7
+|Almaty
+|Kazakhstan
+|40
 
 |===
 
