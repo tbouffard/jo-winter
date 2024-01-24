@@ -2,6 +2,5 @@ name: winter
 title: JO Hiver
 version: 2022
 start_page: index.adoc
-#nav:
-#  - modules/biathlon/nav.adoc
-#  - modules/ccc/nav.adoc
+nav:
+  - modules/ROOT/nav.adoc
