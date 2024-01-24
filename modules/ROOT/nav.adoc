@@ -1,0 +1,2 @@
+* xref:sites-de-competition.adoc[Sites de compétition et de cérémonies]
+* xref:sports-au-programme.adoc[Sports au programme]

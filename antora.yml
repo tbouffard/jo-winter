@@ -3,6 +3,5 @@ title: Hiver
 version: 2026
 start_page: index.adoc
 prerelease: true
-#nav:
-#  - modules/biathlon/nav.adoc
-#  - modules/ccc/nav.adoc
+nav:
+  - modules/ROOT/nav.adoc
