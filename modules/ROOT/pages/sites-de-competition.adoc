@@ -1,4 +1,5 @@
 = Sites de compétition et de cérémonies
+:page-aliases: sites-olympiques.adoc
 
 Les Jeux de Milan-Cortina présentent quatre zones de compétition réparties entre la Lombardie, la Vénétie et le Trentin-Haut-Adige.
 
